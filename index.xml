@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<business_website>
+    <nav_bar>
+        <nav_logo>logo</nav_logo>
+        <nav_item1>Home</nav_item1>
+        <nav_item2>About</nav_item2>
+        <nav_item3>Features</nav_item3>
+        <nav_item4>Advantages</nav_item4>
+        <nav_item5>Offer</nav_item5>
+        <nav_item6>Order Now</nav_item6>
+    </nav_bar>
+    <landing_page>
+        <landing_heading>
+            Landing Page Wireframe Website.
+        </landing_heading>
+        <landing_desc>
+            There are many variations of passages of Lorem Ipsum available. But the majority have suffered alteration in form.
+            Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit.
+        </landing_desc>
+        <search>
+            <btn_value>
+                Submit
+            </btn_value>
+        </search>
+    </landing_page>
+    <about_us>
+        <about_heading>
+            About Us
+        </about_heading>
+        <about_p1>
+            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in form. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt, but the majority have suffered alteration in form.
+        </about_p1>
+        <about_p2>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in form,, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.
+        </about_p2>
+        <btn_value>
+            More
+        </btn_value>
+    </about_us>
+    <features>
+        <features_heading>
+            Features
+        </features_heading>
+        <feature_desc>
+            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration  in form. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        </feature_desc>
+        <feature_card1>
+            <card_title>
+                Feature Title
+            </card_title>
+            <card_desc>
+                Three Rings for the Elven-kings under the sky, Seven for the Dwarf-lords in halls of stone
+            </card_desc>
+        </feature_card1>
+        <feature_card2>
+            <card_title>
+                Feature Title
+            </card_title>
+            <card_desc>
+                Three Rings for the Elven-kings under the sky. Seven for the Dwarf-lords in halls of stone
+            </card_desc>
+        </feature_card2>
+    </features>
+    <advantages>
+        <advantages_heading>
+            Advantages
+        </advantages_heading>
+        <advantages_desc>
+            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration  in form. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        </advantages_desc>
+        <list_items>
+            <list_item1>
+                <heading>One line heading</heading>
+                <desc>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, totam.</desc>
+            </list_item1>
+
+            <list_item2>
+                <heading>One line heading</heading>
+                <desc>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, totam.</desc>
+            </list_item2>
+
+            <list_item3>
+                <heading>One line heading</heading>
+                <desc>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, totam.</desc>
+            </list_item3>
+
+            <list_item4>
+                <heading>One line heading</heading>
+                <desc>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, totam.</desc>
+            </list_item4>
+        </list_items>
+    </advantages>
+    <bestoffer>
+        <heading>
+            Best Offer
+        </heading>
+        <desc>
+            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration  in form. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        </desc>
+        <btn_value>
+            Learn More
+        </btn_value>
+    </bestoffer>
+    <final_page>
+        <left_section>
+            <heading>
+                Heading One
+            </heading>
+            <desc>
+                There are many variations of passages of Lorem Ipsum avalable, but the majority have
+            </desc>
+        </left_section>
+        <right_section>
+            <heading>
+                Heading Two
+            </heading>
+            <desc>
+                There are many variations of passages of Lorem Ipsum avalable, but the majority have
+            </desc>
+        </right_section>
+    </final_page>
+</business_website>
